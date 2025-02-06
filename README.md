@@ -146,7 +146,7 @@ For support, please open an issue in the GitHub repository or contact the develo
 
 ## Security
 
-If you discover any security-related issues, please email security@bullarc.com instead of using the issue tracker.
+If you discover any security-related issues, please email collocateco@gmail.com instead of using the issue tracker.
 
 ## Acknowledgments
 
